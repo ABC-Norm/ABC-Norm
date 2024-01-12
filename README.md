@@ -8,7 +8,7 @@ PyTorch Implementation for paper [ABC-Norm Regularization for Fine-Grained and L
 [Cheng-Yao Hong](https://r03943158.github.io/) <sup>1*</sup>,
 [Ming-Sui Lee](https://www.inm.ntu.edu.tw/en/Departmentmember/Faculty/%E6%9D%8E%E6%98%8E%E7%A9%97-MS-Lee-23127066) <sup>2</sup>,
 [Davi Geiger](https://cs.nyu.edu/~geiger/) <sup>3</sup>,
-[Tyng-Luh Liu](https://homepage.iis.sinica.edu.tw/pages/liutyng/index_en.html) <sup>1</sup>,
+[Tyng-Luh Liu](https://homepage.iis.sinica.edu.tw/pages/liutyng/index_en.html) <sup>1</sup>
 <br>
 <sup>1</sup>Institute of Information Science, Academia Sinica,  <sup>2</sup>National Taiwan University,  <sup>3</sup>New York University,
 
