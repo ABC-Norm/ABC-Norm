@@ -1,4 +1,4 @@
-# ABC-Norm Regularization for Fine-Grained and Long-Tailed Image Classification <img src="https://raw.githubusercontent.com/ABC-Norm/ABC-Norm/main/example/ABC.jpg" width=50px> 
+# <img src="https://raw.githubusercontent.com/ABC-Norm/ABC-Norm/main/example/ABC2.jpg" width=70px>  ABC-Norm Regularization for Fine-Grained and Long-Tailed Image Classification 
 
 
 
