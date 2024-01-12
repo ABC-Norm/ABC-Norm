@@ -1,7 +1,7 @@
 import argparse
 
 parser = argparse.ArgumentParser(description='PyTorch Classification Tools')
-parser.add_argument('--root', default='/home/v20180902/dataset/', metavar='DIR',
+parser.add_argument('--root', default='./dataset/', metavar='DIR',
                     help='dataset path')
 parser.add_argument('--task', default='cub', metavar='DIR',
                     help='cub, car, air')
